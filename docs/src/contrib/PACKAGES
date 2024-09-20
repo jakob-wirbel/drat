@@ -6,3 +6,11 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: fastANCOM
+Version: 0.0.4
+Imports: nlme
+Suggests: rmarkdown, knitr,
+License: GPL-3
+MD5sum: 83b96f1f97dd9b4d22ea1888a390eb22
+NeedsCompilation: no
