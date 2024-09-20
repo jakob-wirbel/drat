@@ -39,3 +39,10 @@ Imports: stats, gamlss.dist
 License: GPL (>= 2)
 MD5sum: 5ebbdfff22ef4b0251c30099e3e944e2
 NeedsCompilation: no
+
+Package: ZINQ
+Version: 1.0
+Imports: quantreg, MASS
+Suggests: knitr, rmarkdown
+MD5sum: ac101976a7b4e1caefe8348efb684c93
+NeedsCompilation: no
