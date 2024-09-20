@@ -14,3 +14,9 @@ Suggests: rmarkdown, knitr,
 License: GPL-3
 MD5sum: 83b96f1f97dd9b4d22ea1888a390eb22
 NeedsCompilation: no
+
+Package: LinDA
+Version: 0.2.0
+License: GPL-2
+MD5sum: d2e94a17593876953311506a0d1feb15
+NeedsCompilation: no
